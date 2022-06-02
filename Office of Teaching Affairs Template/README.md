@@ -1,4 +1,4 @@
-# Office of Teaching Affairs Template
+# Office of Teaching Affairs Template 教务处模板
 
   此文件夹主要存放现行教务处公布的模板作为对照，请确认自己的模板类型。
 
