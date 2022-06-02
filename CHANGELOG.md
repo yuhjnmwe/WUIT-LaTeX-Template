@@ -12,4 +12,4 @@
 
 ## 2022-6-1
 
->创建了本项目，自白详见 [Confession.md](预留）。
+>创建了本项目，自白详见 [Confession.md](https://github.com/yuhjnmwe/WuitThesis/blob/main/Confession.md）。
